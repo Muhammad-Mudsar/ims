@@ -1,0 +1,1 @@
+Django IMS Complete Solution.
